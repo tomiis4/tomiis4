@@ -7,6 +7,6 @@
 
 ### Languages tried: Python, LUA, HTML, CSS, Js/NodeJs/ReactJs, TypeScript, SCSS, Vlang, Java
 
-### Favourite languages: TypeScript, Vlang
+### Favourite languages: TypeScript, Vlang, C
 
-### Languages in the future: C, CPP, Rust, Go
+### Languages in the future: Rust, Go
