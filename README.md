@@ -5,8 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=tomiis4)
 
-### Languages tried: Python, LUA, HTML, CSS, Js/NodeJs/ReactJs, TypeScript, SCSS, Vlang, Java
+### Languages I tried: Python, LUA, HTML, CSS, Js/NodeJs/ReactJs, TypeScript, SCSS, Vlang, Java
 
 ### Favourite languages: TypeScript, Vlang, C
-
-### Languages in the future: Rust, Go
