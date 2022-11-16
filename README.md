@@ -2,7 +2,7 @@
 const developer = {
   name: 'tomiis',
   type: 'front-end',
-  time: 1.5,
+  years: 1.5,
   textEditor: 'NeoVim',
   favoriteLanguages: [],
   languages: [],
