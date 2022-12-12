@@ -9,7 +9,7 @@ const developer = {
 }
 
 developer.favoriteLanguages.push(
-  'TypeScript', 'VLang', 'C'
+  'TypeScript', 'Go', 'VLang', 'C'
 );
 
 developer.languages.push(
