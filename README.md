@@ -1,22 +1,23 @@
-```js
-const developer = {
+```ts
+const tomiis: Developer  = {
   name: 'tomiis',
   type: 'front-end',
   years: 1.5,
   textEditor: 'NeoVim',
-  favoriteLanguages: [],
-  languages: [],
-}
+  favorite: [],
+  tried: []
+};
 
-developer.favoriteLanguages.push(
+tomiis.favorite.push(
   'TypeScript', 'Go', 'VLang', 'C'
 );
 
-developer.languages.push(
-  'Python', 'Lua', 'Html', ['CSS', 'SCSS'], ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'VLang', 'Java'
+tomiis.tried.push(
+  'Python', 'Lua', 'Html', ['CSS', 'SCSS'], 
+  ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'VLang', 'Java'
 );
 
-console.log(developer);
+console.log(tomiis);
 ```
 *****
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomiis4&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
