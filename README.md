@@ -1,5 +1,5 @@
 ```ts
-const tomiis: Developer  = {
+const tomiis: Developer = {
   name: 'tomiis',
   type: 'front-end',
   years: 1.5,
