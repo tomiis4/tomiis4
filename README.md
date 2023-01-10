@@ -20,5 +20,10 @@ tomiis.tried.push(
 console.log(tomiis);
 ```
 *****
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomiis4&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiis4&count_private=true&show_icons=true&theme=radical)
+
+<div style="display: flex; justify-content: space-around; position: relative">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tomiis4&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomiis4&layout=compact&count_private=true&show_icons=true&theme=radical">
+  
+</div>
