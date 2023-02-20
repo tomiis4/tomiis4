@@ -1,5 +1,5 @@
 ```ts
-const tomiis: Developer = {
+let tomiis: Developer = {
   name: 'tomiis',
   type: 'front-end',
   years: 1.7,
@@ -9,12 +9,12 @@ const tomiis: Developer = {
 };
 
 tomiis.favorite.push(
-  'TypeScript', 'Go', 'VLang', 'C'
+  'Go', 'TypeScript', 'VLang'
 );
 
 tomiis.tried.push(
   'Python', 'Lua', 'Html', ['CSS', 'SCSS'], 
-  ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'VLang', 'Java', 'Batch'
+  ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'VLang', 'C', 'Java', 'Batch'
 );
 
 console.log(tomiis);
