@@ -9,12 +9,12 @@ let tomiis: Developer = {
 };
 
 tomiis.favorite.push(
-  'Go', 'TypeScript', 'VLang'
+  'Go', 'TypeScript', 'V'
 );
 
 tomiis.tried.push(
   'Python', 'Lua', 'Html', ['CSS', 'SCSS'], 
-  ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'VLang', 'C', 'Java', 'Batch'
+  ['JavaScript', 'NodeJs', 'ReactJs'], 'TypeScript', 'V', 'C', 'Java', 'Batch'
 );
 
 console.log(tomiis);
