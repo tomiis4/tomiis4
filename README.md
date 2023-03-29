@@ -14,7 +14,7 @@ tomiis.favorite.push(
 
 tomiis.tried.push(
   'Python', 'Lua', 'Html', ['CSS', 'SCSS'], 
-  ['JavaScript', 'NodeJs', 'ReactTs'], 'TypeScript', 'V', 'C', 'Java', 'Batch'
+  ['JavaScript', 'NodeJs', 'ReactTs'], 'TypeScript', 'V', 'C', 'Java', 'Batch', 'GoLang'
 );
 
 console.log(tomiis);
