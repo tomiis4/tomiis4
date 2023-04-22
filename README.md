@@ -12,10 +12,6 @@
  
 <h1> 𝗦𝘁𝗮𝘁𝘀 </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomiis4&show_icons=true&theme=gruvbox&count_private=true">
+  <img src="https://www.codewars.com/users/tomiis4/badges/large"> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomiis4&show_icons=true&theme=gruvbox&count_private=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomiis4&show_icons=true&theme=gruvbox&count_private=true">
 </p>
