@@ -6,7 +6,7 @@
   - 𝚝𝚘𝚘𝚕𝚜 := 𝙽𝚎𝚘𝚅𝚒𝚖, 𝙶𝚒𝚝𝚑𝚞𝚋, 𝚂𝚝𝚊𝚌𝚔O𝚟𝚎𝚛𝚏𝚕𝚘𝚠
 
 <h1> 𝗥𝗲𝗮𝗰𝗵 𝗺𝗲 𝗼𝗻 </h1>
-  <a target="_blank"href="https://instagram.com/tomii6_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a target="_blank"href="https://instagram.com/t.kudynek"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a target="_blank"href="https://discord.com/users/537667668317044746"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a target="_blank"href="https://twitter.com/tomisbesst"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  
